@@ -1,5 +1,5 @@
-FROM alpine:3.4
-MAINTAINER Wonderfall <wonderfall@schrodinger.io>
+FROM hypriot/rpi-alpine-scratch
+MAINTAINER Sergej Werfel <email@sergej-werfel.de>
 
 ENV GID=991 UID=991
 
